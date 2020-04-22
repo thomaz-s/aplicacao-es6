@@ -15,7 +15,6 @@
   },
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
-    "build": "webpack --mode=production",
-    "exercicios": "babel ./importExport/ex1Main.js -o ./importExport/bundle.js"
+    "build": "webpack --mode=production"
   }
 }
