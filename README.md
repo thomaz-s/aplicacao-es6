@@ -1,1 +1,1 @@
-While I'm just learning, I copy the code from each subfolders' scripts to main.js and run 'yarn run dev'
+Just for study
