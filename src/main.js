@@ -1,1 +1,1 @@
-alert('deu certo');
+alert('ok');
