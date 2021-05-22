@@ -6,4 +6,4 @@ A aplicação foi desenvolvida com ajuda das aulas do curso Starter da [Rocketse
 
 Abaixo um print da página:
 
-![Captura de tela]()
+![Captura de tela](https://raw.githubusercontent.com/thomaz-s/javascript-es6-app/master/.github/print01.png)
